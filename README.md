@@ -48,17 +48,20 @@
 
 ---
 
-### 📊 GitHub Insights & Statistics
+## 📊 GitHub Insights & Statistics
 
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</p>
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://demolab.com" alt="GitHub Streak Stats" />
-</p>
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=deepikaagileqa&show_icons=true&theme=default)
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=deepikaagileqa&layout=compact&theme=default)
+
+### Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=deepikaagileqa&theme=default)
 
 ---
 
 ### 🤝 Let's Connect!
-- 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/deepika-sharma-bb16ba2a/)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/deepika-sharma-bb16ba2a
